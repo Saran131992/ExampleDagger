@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958545891207",
+    "project_id": "samplefirebase-8e7a0",
+    "storage_bucket": "samplefirebase-8e7a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958545891207:android:8b3da5b7dc5ee0bb8a8d22",
+        "android_client_info": {
+          "package_name": "com.example.exampledagger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMVc8qzwgBSwluyqgU6kB2OXIpTEp9ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
