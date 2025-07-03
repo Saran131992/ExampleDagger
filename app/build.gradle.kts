@@ -38,7 +38,6 @@ android {
     buildFeatures {
         viewBinding = true
     }
-
 }
 
 dependencies {
@@ -59,6 +58,9 @@ dependencies {
     // Coroutines (for suspend functions in Retrofit)
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1")
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
+
+    // Realm
+    implementation ("io.realm:realm-gradle-plugin:10.15.1")
 
     //Firebase
     // Import the Firebase BoM
